@@ -1,0 +1,50 @@
+body {
+    background-color: #b8d1f3;
+}
+
+h1, h5, th {
+    background-color: #dae5f4;
+    text-align: center;
+    font-size: 4vw;
+    font-family: "Gill Sans", sans-serif;
+}
+
+table {
+    font-family: Segoe UI;
+    box-shadow: 10px 10px 5px #888;
+    border: thin ridge grey;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    grid-gap: 20px;
+    color: #444;
+}
+
+th {
+    font-size: 1.5vw;
+    background: #00c378;
+    color: #fff;
+    max-width: 400px;
+    padding: 5px 10px;
+}
+
+td {
+    text-align: center;
+    padding: 5px 20px;
+    color: #000;
+}
+
+tr {
+    background: #b8d1f3;
+}
+
+tr:nth-child(even) {
+    background: #dae5f4;
+}
+
+tr:nth-child(odd) {
+    background: #b8d1f3;
+}

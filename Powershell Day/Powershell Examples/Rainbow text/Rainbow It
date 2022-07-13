@@ -1,0 +1,8 @@
+$textString = "apple"
+
+#color setup 
+$colours = @( Black DarkBlue DarkGreen DarkCyan DarkRed DarkMagenta DarkYellow Gray DarkGray Blue Green Cyan Red Magenta Yellow White)
+
+#turn the text into a chararray
+
+$textArray = $textString.ToCharArray()

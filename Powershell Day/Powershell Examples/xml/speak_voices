@@ -1,0 +1,23 @@
+[XML]$rj = Get-Content C:\users\Instructor\Desktop\rj.xml
+Add-Type -AssemblyName System.Speech 
+ $synth = New-Object -TypeName System.Speech.Synthesis.SpeechSynthesizer
+ $synth.rate = "10"
+ $synth.selectvoice( "Microsoft Hazel Desktop" )
+ $synth.Voice
+ $synth.GetInstalledVoices().voiceinfo
+
+ $synth2 = New-Object -TypeName System.Speech.Synthesis.SpeechSynthesizer
+ $synth2.rate = "10"
+ $synth2.GetInstalledVoices().voiceinfo
+
+$act1 = $rj.PLAY.act[0]
+$lines  = $act1.SCENE[0].SPEECH[0..5]
+
+foreach ($line in $lines) {
+
+if ($line.speaker -eq "SAMPSON") {
+ $synth.speak($line.line)
+ }else
+ {$synth2.speak($line.line)
+ }
+ }
