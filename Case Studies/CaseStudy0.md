@@ -24,20 +24,20 @@ Mark will require read-only access to the Contoso Coffee resources.
 
 ## Website hosting
 
-The Contoso Coffee website will need to be hosted with a PaaS solution that minimises costs, dynamic scaling of the website is a consideration but not essential. The website should be able to be updated by developers using standard code hosting solutions.
+The Contoso Coffee website will need to be hosted with a PaaS solution that minimizes costs, dynamic scaling of the website is a consideration but not essential. The website should be able to be updated by developers using standard code hosting solutions.
 
-Difficulty Level 1: Pull a GitHub hosted site via the deployment centre with webapps
+Difficulty Level 1: Pull a GitHub hosted site via the deployment center with webapps
 
 Difficulty Level 2: Create a Docker Container based solution and deploy to a webapp
 
 Difficulty Level 3: Host the Docker Container solution via Azure Container Registries and pull into an Azure ACI solution.
 
-Diffuculty Level 3 example https://docs.microsoft.com/en-gb/azure/container-instances/container-instances-tutorial-prepare-app
+Difficulty Level 3 example https://docs.microsoft.com/en-gb/azure/container-instances/container-instances-tutorial-prepare-app
 
 
 ## Load Balancing and Geo-redundent access
 
-Contoso Coffee will operate in London and New York, because of this a solution will need to be configured that allows the US users to access a more local server than London and vice versa. Load balancing can be achieved through DNS redirection or a geo-loadbalanced solution 
+Contoso Coffee will operate in London and New York, because of this a solution will need to be configured that allows the US users to access a more local server than London and vice versa. Load balancing can be achieved through DNS redirection or a geo-load balanced solution 
 
 ## Contoso Coffee example website
 
@@ -45,7 +45,7 @@ The Contoso Coffee website example is provided at https://github.com/kramit/Coff
 
 ## Contoso Coffee data storage
 
-Contoso coffee is planning to store a large amount of image information that will be shared with staff members and clients. These images will be scans of 35 and 120 film for hipster photography that will be displayed around the coffee shop. The storage solution should minimise costs by automatically archiving data onto slower storage when required. A SAS key solution should be created for a future image gallery solution to display images on a TV in the Coffee Shop running a small Raspberry Pi solution locally hosting a web page to display the images. Bonus points for creating an image display web app. 
+Contoso coffee is planning to store a large amount of image information that will be shared with staff members and clients. These images will be scans of 35 and 120 film for hipster photography that will be displayed around the coffee shop. The storage solution should minimize costs by automatically archiving data onto slower storage when required. A SAS key solution should be created for a future image gallery solution to display images on a TV in the Coffee Shop running a small Raspberry Pi solution locally hosting a web page to display the images. Bonus points for creating an image display web app. 
 
 ## Contoso Coffee ARM template
 
