@@ -1,4 +1,4 @@
-# AZ-104 Case Study 3
+# AZ-104 Case Study 2
 
 Bonus points are not essential, but are meant to add another challenge if the main solutions are completed rapidly.
 
