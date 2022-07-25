@@ -62,7 +62,7 @@ All AZ-305, there is a lot of crossover with the AZ-104 with probably around 30-
 
 12th, AZ-305 exam day, again, I am not sure if I am going to be around during the day as Glasspaper may choose to have me teach a 1 day public course.
 
-3 days of working on and polishing up those 2 case studies, ready for the Friday presentations. There maybe a post course party/meal out paid for by Microsoft, but don't hold me to that.
+3 days of working on and polishing up those 2 case studies, ready for the Friday presentations. There maybe a post course party/meal out paid for by Microsoft, but don't hold me to that, we will find out the plan later on.
 
 
 **Azure Pass Redemption**
