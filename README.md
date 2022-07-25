@@ -48,7 +48,6 @@ I will be with you every step of this, and we will spend a lot of time going ove
 
 29-30, This is the first 2 days dedicated for you to put together a case study. I have created 3 case studies for you in the case studies folder of this Github repo. (I may make more) you only need to do 2 of the case studies over the time we have. The purpose of them is so you can show you understand some of the material and how to create and document a solution. The final day on 16th Sept you will have to give a brief presentation to members of Microsoft and your class. Not too much to be worried about only "This is the client and the issues they face, this is what we propose for the client, and here is an example of the solution working" 
 
-An excellent example from last years Microsoft Uni 2021 is here https://github.com/kramit/contosocoffee
 
 31st August is your exam day for the AZ-104, as an instructor I am not supposed to be teaching you on that day so Glasspaper may re-assign me to teach a 1 day course for other clients, we will find out closer to the day and I will let you know.
 
