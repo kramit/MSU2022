@@ -12,7 +12,7 @@ Fridjof
 
 ## Group B
 
-Hamzhe
+Hamzeh
 Martin
 Mohamed
 Nazir
