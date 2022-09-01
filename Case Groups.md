@@ -2,8 +2,8 @@
 
 ## Group A
 
-Abas
-Adrees
+Sigrid
+Martin
 Eivind
 Erik
 Floyd
@@ -12,17 +12,17 @@ Fridjof
 
 ## Group B
 
+Adrees
 Hamzeh
-Martin
 Mohamed
 Nazir
-Nikls
+Niklas
 Runar
 
 ## Group C
 
+Abas
 Sebastian
-Sigrid
 Simen
 Sofie
 Thea
